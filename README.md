@@ -12,7 +12,7 @@
 - **AI-ML Internship at CTTC** – Built a chatbot with **85% accuracy**
 
 ## Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/adyasha-nanda-b4bb2b221)  
-📧 nandaadyasha71@gmail.com  
+- ### [LinkedIn](https://www.linkedin.com/in/adyasha-nanda-b4bb2b221)
+- ### nandaadyasha71@gmail.com  
 ---
-*Learning by building, one project at a time* 💻
+*Learning by building, one project at a time* 
