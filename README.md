@@ -1,18 +1,9 @@
-# Hi! I'm Adyasha
+# Hi, I'm Adyasha 👋
 
-## Tech Stack
-**Frontend:** React.js, Next.js, TailwindCSS, TypeScript  
-**Backend:** Node.js, Express.js, RESTful APIs  
-**Database:** MongoDB, PostgreSQL  
-**Tools:** Git, Vercel, Cloudinary
+I am one of those people who loves building things from scratch, turning complex problems into elegant, real-world solutions through clean code. 
 
-## Achievements
-- **Smart India Hackathon 2023 Finalist** – Presented to the Prime Minister of India  
-- **4x Hackathon Runner-Up** – BPUT, Srusti Tech Hack, GIET Hackfest, InnovateX 4.0  
-- **AI-ML Internship at CTTC** – Built a chatbot with **85% accuracy**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyasha-nanda-b4bb2b221) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandaadyasha71@gmail.com)
 
-## Let's Connect
-- ### [LinkedIn](https://www.linkedin.com/in/adyasha-nanda-b4bb2b221)
-- ### nandaadyasha71@gmail.com  
 ---
-*Learning by building, one project at a time* 
+*Learning by building, one project at a time*
